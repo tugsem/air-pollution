@@ -11,7 +11,7 @@
 - Redux
 - VsCode
 - Bootstrap
-- Air pollution API
+- Air pollution Api
 
 ## Live Demo 
 
