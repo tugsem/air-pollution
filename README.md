@@ -15,7 +15,7 @@
 
 ## Live Demo 
 
-Coming soon...
+[Click Here](https://tugsem.github.io/air-pollution/)
 
 ## Video Link
 
