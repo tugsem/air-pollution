@@ -15,7 +15,7 @@
 
 ## Live Demo 
 
-[Click Here](https://tugsem.github.io/air-pollution/)
+[Click Here](https://air-pollution1.herokuapp.com)
 
 ## Video Link
 
