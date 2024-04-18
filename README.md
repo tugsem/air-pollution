@@ -15,7 +15,7 @@
 
 ## Live Demo 
 
-[Click Here](https://air-pollution1.herokuapp.com)
+[Click Here](https://air-pollution-production.up.railway.app/)
 
 ## Video Link
 
